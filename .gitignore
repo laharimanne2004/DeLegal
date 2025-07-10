@@ -1,0 +1,17 @@
+# Ignore virtual environments
+.venv310/
+venv/
+env/
+__pycache__/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and compiled code
+*.pyc
+*.pyo
+*.log
+
+# Ignore Streamlit cache
+.streamlit/
