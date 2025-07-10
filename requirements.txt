@@ -2,9 +2,8 @@ streamlit
 PyPDF2
 transformers
 sentencepiece
-torch
-spacy
+torch==2.0.1
+spacy==3.7.2
 nltk
 matplotlib
 plotly
-
