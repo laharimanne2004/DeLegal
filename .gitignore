@@ -1,4 +1,5 @@
 # Ignore virtual environments
+.venv/
 .venv310/
 venv/
 env/
@@ -15,3 +16,4 @@ Thumbs.db
 
 # Ignore Streamlit cache
 .streamlit/
+
