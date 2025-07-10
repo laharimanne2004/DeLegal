@@ -1,1 +1,10 @@
+streamlit
 PyPDF2
+transformers
+sentencepiece
+torch
+spacy
+nltk
+matplotlib
+plotly
+
